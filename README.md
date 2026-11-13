@@ -1,12 +1,12 @@
 # AI Longevity for Teams
 
-**A preventive health benefit that companies buy for their teams. Think Wellhub, for prevention.**
+**A B2B preventive health benefit that companies buy for their teams. The Wellhub (ex-Gympass) of longevity.**
 
 Idea stage, with a working demo in private beta: [salud-healthtech.vercel.app/en](https://salud-healthtech.vercel.app/en). The code is private; this page explains what it does and how it is built.
 
 ## The three parts
 
-1. **A longitudinal health record.** It connects to the user's Gmail (read-only), finds the lab results and imaging reports they already received over the years, and organizes them by what happened to the body (a body part, an analyte, a type of study) instead of a list by date.
+1. **A longitudinal health record.** It connects to the user's Gmail (read-only), finds the lab results, imaging reports and medical records they already received over the years, and organizes them by what happened to the body (a body part, an analyte, a type of study) instead of a list by date.
 2. **Wearables.** Garmin today, Oura and Whoop next.
 3. **An AI health concierge.** A daily reading of the wearable every morning, a weekly summary on Mondays, and pattern alerts on rest, load and recovery. Next: reading lab results and wearable data together.
 
